@@ -12,6 +12,10 @@ div p {
     font-size: 12.5px;
 
 }
+input[type="text"] {
+    width: 100%;
+}
+
 .container {
     height: 125px;
     position: relative;
